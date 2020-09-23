@@ -1,4 +1,4 @@
-# C-space-and-A-
+# C-space-and-A*
 + Understand different types of motion planning problems and properties of motion planners.
 + Apply the concept of C-space obstacles in the analysis of motion planning.
 + Represent free C-space as a graph or a tree.
